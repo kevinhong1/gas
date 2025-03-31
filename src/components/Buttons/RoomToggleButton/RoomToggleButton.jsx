@@ -1,4 +1,4 @@
-/*import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect } from "react";
 import "./RoomToggleButton.scss";
 import { useToggleRoomStore } from "../../../stores/toggleRoomStore";
 import gsap from "gsap";
@@ -78,4 +78,3 @@ const RoomToggleButton = () => {
 };
 
 export default RoomToggleButton;
-*/

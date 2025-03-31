@@ -8,14 +8,13 @@ const DevWorkPage = () => {
       <Page
         requireDarkRoom={true}
         panelContent={{
-          title: "Development Work",
-          quote:
-            "Transforming visionary designs into seamless digital realities.",
+          title: "Website Development",
+          quote: "Building your digital realities from the ground up.",
           content: [
-            "Our development side is where innovation meets execution, transforming creative concepts into interactive, functional, and technically sound digital experiences. While our design team focuses on the aesthetics and emotional depth of architecture, our development team ensures that these visions are translated seamlessly into interactive and dynamic experiences.",
-            "From parametric modeling tools to custom-built interactive platforms, we empower architects with the ability to explore their designs beyond static imagery. Leveraging the latest in WebGL, Three.js, Unreal Engine, and Blender, we create digital environments that architects can navigate, manipulate, and refine in real time.",
-            "By integrating optimized rendering engines, efficient asset management systems, and real-time lighting calculations, we ensure that every interactive experience is as fluid and responsive as it is visually compelling. We also pioneer the use of cloud-based architectural collaboration tools, enabling real-time feedback and iterative design refinement with stakeholders across the globe.",
-            "With expertise in computational design scripting, BIM integrations, and procedural generation, we build custom digital tools that allow architects to generate, analyze, and refine complex forms with precision. By bridging the gap between design artistry and digital efficiency, we transform abstract concepts into tangible, interactive experiences that elevate the architectural process.",
+            "I focus on creating websites that are both functional and visually engaging. From simple portfolios to dynamic business sites, I work hard to bring ideas to life through clean, efficient code and thoughtful design.",
+            "Using technologies like HTML, CSS, JavaScript, and frameworks such as React and Next.js, I build websites that are fast, responsive, and easy to navigate. My goal is to create user-friendly experiences that meet each client’s unique needs.",
+            "Performance, security, and accessibility are key considerations for me. I integrate SEO practices, optimize loading speeds, and ensure websites are easy to manage and update.",
+            "I aim to make the technical side as seamless as possible for my clients, and from start to finish, I work to the best of my ability to create reliable and well-structured websites that work smoothly and look great.",
           ],
         }}
         imageSrc={"/images/dev.webp"}

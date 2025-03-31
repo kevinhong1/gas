@@ -90,7 +90,7 @@ const LoadingScreen = () => {
       <div ref={bottomHalfRef} className="background-bottom-half"></div>
       <div className="loading-screen-info-container">
         <div ref={messageRef} className="intro-message-container">
-          welcome.
+          Hello I'm Kevin. Welcome to my Portfolio.
         </div>
         <div className="loading-bar-container">
           <div

@@ -15,7 +15,7 @@ const AboutPage = () => {
             <span key="experience-wrapper">
               <a
                 key="experience-link"
-                href={process.env.PUBLIC_URL + "/port/other.html"}
+                href="/about/port/other.html"
               >
                 Past Projects
               </a>

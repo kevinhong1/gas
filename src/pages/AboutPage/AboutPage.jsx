@@ -8,16 +8,15 @@ const AboutPage = () => {
       <Page
         requireDarkRoom={true}
         panelContent={{
-          title: "About Us",
-          quote: "Revolutionizing architecture for the AI future.",
+          title: "Past Work",
+          quote: "View some of my past work.",
           content: [
-            "At Daniels Design & Dev, we believe architecture is more than just form—it's an ",
+            "I’ve had the opportunity to build websites for a variety of clients, focusing on clean design, functionality, and performance. Each project is tailored to meet specific needs, whether it's a personal portfolio, a business site, or a custom web application. Take a look at a some of my previous works below!",
             <span key="experience-wrapper">
               <a key="experience-link" href="/">
-                experience
+                Past Projects
               </a>
             </span>,
-            ". Our studio exists to bridge the gap between design and technology, helping architects bring their visions to life through stunning visuals and interactive digital experiences. Whether it's minimalist conceptual renderings, immersive real-time environments, or parametric design solutions, we craft every project with precision, emotion, and a deep respect for spatial storytelling.",
           ],
         }}
         imageSrc={"/images/about.webp"}

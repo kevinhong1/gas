@@ -13,7 +13,7 @@ const AboutPage = () => {
           content: [
             "I’ve had the opportunity to build websites for a variety of clients, focusing on clean design, functionality, and performance. Each project is tailored to meet specific needs, whether it's a personal portfolio, a business site, or a custom web application. Take a look at a some of my previous works below!",
             <span key="experience-wrapper">
-              <a key="experience-link" href="port/other.html">
+              <a key="experience-link" href="/port/other.html">
                 Past Projects
               </a>
             </span>,

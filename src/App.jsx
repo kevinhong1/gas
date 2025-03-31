@@ -1,6 +1,6 @@
 import "./App.scss";
 import React, { useRef, useEffect } from "react";
-import RoomToggleButton from "./components/Buttons/RoomToggleButton/RoomToggleButton";
+//import RoomToggleButton from "./components/Buttons/RoomToggleButton/RoomToggleButton";
 import Experience from "./Experience/Experience";
 
 import { useResponsiveStore } from "./stores/useResponsiveStore";
@@ -26,7 +26,6 @@ function App() {
       <Menu />
       <Logo />
       <LoadingPage />
-      <RoomToggleButton />
       <Overlay />
       <Router />
       <Experience />

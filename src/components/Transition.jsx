@@ -1,4 +1,4 @@
-/*import React, { useRef, useEffect, useState } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import gsap from "gsap";
 import { useLocation } from "react-router";
 import { SwitchTransition, Transition } from "react-transition-group";
@@ -146,4 +146,3 @@ const TransitionComponent = ({ children }) => {
 };
 
 export default TransitionComponent;
-*/

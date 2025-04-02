@@ -19,7 +19,7 @@ const Router = () => {
         }
       />
       <Route
-        path="about"
+        path="past-work"
         element={
           <TransitionComponent>
             <AboutPage />
@@ -27,7 +27,7 @@ const Router = () => {
         }
       />
       <Route
-        path="dev-work"
+        path="web-dev"
         element={
           <TransitionComponent>
             <DevWorkPage />
@@ -35,7 +35,7 @@ const Router = () => {
         }
       />
       <Route
-        path="design-work"
+        path="about-me"
         element={
           <TransitionComponent>
             <DesignWorkPage />

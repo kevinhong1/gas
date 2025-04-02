@@ -46,7 +46,7 @@ const Menu = () => {
               />
             </svg>
           </NavLink>
-          <NavLink to="/past-work">
+          <NavLink to="/about">
             <svg
               width="10"
               height="13"
@@ -75,7 +75,7 @@ const Menu = () => {
           </NavLink>
         </div>
         <div className="second-row">
-          <NavLink to="/web-dev">
+          <NavLink to="/dev-work">
             <svg
               width="18"
               height="15"
@@ -107,7 +107,7 @@ const Menu = () => {
               <path d="M9 14L11 1" stroke="currentColor" strokeWidth="0.7" />
             </svg>
           </NavLink>
-          <NavLink to="/about-me">
+          <NavLink to="/design-work">
             <svg
               width="13"
               height="13"

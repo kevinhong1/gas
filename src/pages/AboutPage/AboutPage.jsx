@@ -15,7 +15,7 @@ const AboutPage = () => {
             <span key="experience-wrapper">
               <a
                 key="experience-link"
-                href="/about/port/other.html"
+                href="https://kevinhong1.github.io/woAWOer/other.html"
               >
                 Past Projects
               </a>
